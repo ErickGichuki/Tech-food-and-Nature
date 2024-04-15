@@ -1,0 +1,28 @@
+h2{
+    text-align: center;
+}
+h2:hover{
+    background-color: #ccc;
+    color: blue;
+}
+p{
+    text-align: center;
+}
+section{
+    border: 1px solid #333;
+    margin-bottom: 20px;
+}
+section:hover{
+    background-color: #ccc;
+}
+#homeimg{
+    display: block;
+    margin: 0 auto;
+}
+
+#links{
+    margin-left: 126px;
+}
+p:hover{
+    color: rgb(91, 19, 158);
+}
