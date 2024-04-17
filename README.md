@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Tech-food-and-Nature
 ## Description
 - The repo contains three different images related to different topics.
@@ -11,6 +10,4 @@
 -Run ```code .``` on your terminal to open the vs code and start working.
 
 ### Happy coding
-=======
 
->>>>>>> ae6a21695466ef76b652af451014739a6cb78272
